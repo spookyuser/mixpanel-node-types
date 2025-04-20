@@ -1,5 +1,5 @@
 {
-  "name": "mixpanel-node-types",
+  "name": "@spookyuser/mixpanel-node-types",
   "version": "1.0.0",
   "description": "A package that exports types for mixpanel-node",
   "main": "index.d.ts",
